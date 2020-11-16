@@ -1,0 +1,1 @@
+# Automatiza_SOL_BQA
